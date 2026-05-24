@@ -13,7 +13,7 @@ const Hero = () => {
           transition={{ duration: 0.8, ease: "easeOut" }}
         >
           <h1 className="hero-title">
-            <span className="gold-text">DJ Ariel</span><br />
+            <span className="gold-text">DJ Shmuel</span><br />
             תקליטן לאירועי יוקרה
           </h1>
         </motion.div>

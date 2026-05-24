@@ -22,7 +22,7 @@ const About = () => {
             <h3 className="about-subtitle">תקליטן שחי ונושם מוזיקה</h3>
             
             <p>
-              נעים מאוד, אני אריאל ג'יאן. עם למעלה מ-7 שנות ניסיון בתחום האירועים, אני מביא איתי ידע רחב, אנרגיות שיא ואהבה עצומה לשמח אנשים.
+              נעים מאוד, אני שמואל. עם למעלה מ-7 שנות ניסיון בתחום האירועים, אני מביא איתי ידע רחב, אנרגיות שיא ואהבה עצומה לשמח אנשים.
             </p>
             <p>
               ההתמחות שלי היא באירועי יוקרה למגזר הדתי והחרדי-מודרני. אני מבין לעומק את הדקויות, הרגישויות והטעם המוזיקלי הייחודי הנדרש באירועים אלו - החל ממוזיקה חסידית אותנטית, דרך פופ וים תיכוני, ועד למוזיקה אלקטרונית וטראנס לרחבת הריקודים בשעות המאוחרות.
@@ -56,7 +56,7 @@ const About = () => {
             transition={{ duration: 0.8, ease: "easeOut", delay: 0.2 }}
           >
             <div className="image-frame">
-              <img src="/assets/images/about.png" alt="DJ Ariel Portrait" className="about-image" />
+              <img src="/assets/images/about.png" alt="DJ Shmuel Portrait" className="about-image" />
             </div>
           </motion.div>
         </div>

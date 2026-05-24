@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="footer-content">
           <div className="footer-logo">
             <a href="#hero">
-              <span className="gold-text">DJ</span> Ariel
+              <span className="gold-text">DJ</span> Shmuel
             </a>
             <p className="footer-slogan">
               תקליטן לאירועי יוקרה למגזר החרדי והדתי. עושים שמח מכל הלב.
@@ -41,7 +41,7 @@ const Footer = () => {
         </div>
 
         <div className="footer-bottom">
-          <p>&copy; {currentYear} DJ Ariel. כל הזכויות שמורות.</p>
+          <p>&copy; {currentYear} DJ Shmuel. כל הזכויות שמורות.</p>
           <p className="credit">נבנה ע"י מפתח אתרים</p>
         </div>
       </div>

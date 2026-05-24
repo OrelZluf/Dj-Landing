@@ -29,7 +29,7 @@ const Header = () => {
       <div className="container header-container">
         <div className="logo">
           <a href="#hero">
-            <span className="gold-text">DJ</span> Ariel
+            <span className="gold-text">DJ</span> Shmuel
           </a>
         </div>
 
