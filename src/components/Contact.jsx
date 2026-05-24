@@ -59,7 +59,7 @@ const Contact = () => {
                 <div className="info-icon"><FaPhoneAlt /></div>
                 <div>
                   <h4>טלפון</h4>
-                  <p dir="ltr">055-663-3980</p>
+                  <p dir="ltr">055-9835875</p>
                 </div>
               </div>
               

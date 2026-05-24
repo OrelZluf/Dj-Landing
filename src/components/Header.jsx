@@ -46,8 +46,8 @@ const Header = () => {
         </nav>
 
         <div className="header-actions">
-          <a href="tel:0556633980" className="phone-btn">
-            <FaPhoneAlt /> 055-663-3980
+          <a href="tel:0559835875" className="phone-btn">
+            <FaPhoneAlt /> 055-9835875
           </a>
           <div 
             className="hamburger" 
