@@ -1,0 +1,10 @@
+/* App specific styles will go here if needed, but mostly we use module CSS or styled components. For now we will rely on standard CSS. */
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
